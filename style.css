@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+*{
+    font-family: Do Hyeon, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcuTycfffyr6fW3Z0GNeuFJXPP3XRfsH3Jpw&usqp=CAU);
+
+position: relative;
+border-image-width: 100%;
+
+
+}
+h1{
+
+    text-align: center;
+}
+ table{
+    margin: 5px auto;
+    width: 300px;
+    margin: 10px auto ;
+    border-spacing:0px 2px ; 
+   
+    
+
+}
+tr{
+    
+    background-color: rgb(211, 211, 160) ;
+    
+    
+
+
+}
+
+
+tr:hover{
+    background-color:rgb(146, 160, 173)  ;
+}
+
+th{
+    background-color: rgb(146, 160, 173) ;
+    
+    }
+
+th,td{
+    padding: 10px;
+    text-align: center;
+    border:solid 2px gray ;
+}
+fieldset{
+    widows: 100%;;
+    text-align:center ;
+    margin: 0px auto;
+    background-color: rgb(100, 170, 170)	;
+    border-radius: 20px;
+    
+}
+legend{
+    border:1px solid black ;
+    background-color:rgb(211, 211, 160) ;
+    border-radius: 4px;
+}
